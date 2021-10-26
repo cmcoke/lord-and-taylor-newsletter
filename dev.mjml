@@ -152,11 +152,26 @@
     <mj-raw>
       <!-- line divider -->
     </mj-raw>
-    <mj-section background-color="#ffffff" padding="20px 0px 0px 0px">
+    <mj-section background-color="#ffffff" padding="40px 0px 0px 0px">
       <mj-column>
          <mj-divider border-width="1px" border-style="solid" border-color="#000000" />
       </mj-column>
     </mj-section>
+
+    <mj-raw>
+      <!-- social media links -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="30px 11px 40px 11px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" align="center">
+          <mj-social-element href="#" src="https://i.postimg.cc/y8NRZ17x/facebook.png" padding="0px 33px 0 33px"></mj-social-element>
+          <mj-social-element href="#" src="https://i.postimg.cc/zfbRxxb1/instagram.png" padding="0px 33px 0 33px"></mj-social-element>
+          <mj-social-element href="#" src="https://i.postimg.cc/GmSyPWpQ/twitter.png" padding="0px 33px 0 33px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+
 
   </mj-body>
 
