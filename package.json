@@ -1,0 +1,17 @@
+{
+  "name": "email-setup",
+  "version": "2.0.0",
+  "scripts": {
+    "deploy": "gh-pages -d production"
+  },
+  "homepage": "https://cmcoke.github.io/lord-and-taylor",
+  "devDependencies": {
+    "browser-sync": "^2.27.6",
+    "gh-pages": "^2.2.0",
+    "gulp": "^4.0.2",
+    "gulp-watch": "^5.0.1"
+  },
+  "dependencies": {
+    "mjml": "^4.10.4"
+  }
+}
