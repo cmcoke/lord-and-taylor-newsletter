@@ -66,7 +66,32 @@
       </mj-column>
     </mj-section>
 
+    <mj-raw>
+      <!-- new arrivals -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/HsK9t8nR/new-arrivals.jpg" alt="new arrivals"/>
+      </mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- knititude -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/cCGrHZLD/knititude.jpg" alt="woman in a orange knitted dress"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- nine west -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/rF8wYf0t/nine-west.gif" alt="female shoes"/>
+      </mj-column>
+    </mj-section>
 
   </mj-body>
 
