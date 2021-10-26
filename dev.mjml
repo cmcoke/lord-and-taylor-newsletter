@@ -93,6 +93,33 @@
       </mj-column>
     </mj-section>
 
+    <mj-raw>
+      <!-- the home edit -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/PrZ0YHrW/the-home-edit.jpg" alt="plates on a table"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- new markdowns -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/DyqYmcB5/mark-downs.jpg" alt="70% off new markdowns"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- afterpay -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/vBf5X01N/afterpay.jpg" alt="afterpay advertisment"/>
+      </mj-column>
+    </mj-section>
+
   </mj-body>
 
 </mjml>
