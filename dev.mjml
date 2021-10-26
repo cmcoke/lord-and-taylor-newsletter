@@ -120,6 +120,44 @@
       </mj-column>
     </mj-section>
 
+    <mj-raw>
+      <!-- You may also love... -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 0px 40px 0px">
+      <mj-column>
+        <mj-text align="center" font-family="montserrat" font-size="28px" font-weight="bold">
+          You may also love...
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- images of a female in a black dress, a vaz statue, a painting and a purple bed -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/hj5NbPdr/dress.png" alt="a female modeling a black dress"/>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/PJv96sbk/flower.png" alt="a vaz"/>
+      </mj-column>
+      <mj-column padding="0px 15px 0px 0px">
+        <mj-image src="https://i.postimg.cc/NLhVSJb2/painting.png" alt="a painting"/>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/yddwZSkx/bed.png" alt="bed"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- line divider -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px 0px 0px 0px">
+      <mj-column>
+         <mj-divider border-width="1px" border-style="solid" border-color="#000000" />
+      </mj-column>
+    </mj-section>
+
   </mj-body>
 
 </mjml>
