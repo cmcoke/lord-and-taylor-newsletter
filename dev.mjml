@@ -14,7 +14,6 @@
     <!-- This tag allows you to modify default attributes on a mj-tag and add mj-class to them. -->
     <mj-attributes>
       <mj-all padding="0" />
-      <mj-class name="crimson" color="crimson"/>
     </mj-attributes>
   </mj-head>
 
@@ -62,7 +61,7 @@
     </mj-raw>
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-image src="https://i.postimg.cc/9FtcdZLF/hero.gif" alt="hero image"/>
+        <mj-image src="https://i.postimg.cc/9FtcdZLF/hero.gif" alt="hero image" href="https://www.lordandtaylor.com/"/>
       </mj-column>
     </mj-section>
 
@@ -71,7 +70,7 @@
     </mj-raw>
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-image src="https://i.postimg.cc/HsK9t8nR/new-arrivals.jpg" alt="new arrivals"/>
+        <mj-image src="https://i.postimg.cc/HsK9t8nR/new-arrivals.jpg" alt="new arrivals" href="https://www.lordandtaylor.com/"/>
       </mj-column>
     </mj-section>
 
@@ -80,7 +79,7 @@
     </mj-raw>
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-image src="https://i.postimg.cc/cCGrHZLD/knititude.jpg" alt="woman in a orange knitted dress"/>
+        <mj-image src="https://i.postimg.cc/cCGrHZLD/knititude.jpg" alt="woman in a orange knitted dress" href="https://www.lordandtaylor.com/"/>
       </mj-column>
     </mj-section>
 
@@ -89,7 +88,7 @@
     </mj-raw>
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-image src="https://i.postimg.cc/rF8wYf0t/nine-west.gif" alt="female shoes"/>
+        <mj-image src="https://i.postimg.cc/rF8wYf0t/nine-west.gif" alt="female shoes" href="https://www.lordandtaylor.com/"/>
       </mj-column>
     </mj-section>
 
@@ -98,7 +97,7 @@
     </mj-raw>
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-image src="https://i.postimg.cc/PrZ0YHrW/the-home-edit.jpg" alt="plates on a table"/>
+        <mj-image src="https://i.postimg.cc/PrZ0YHrW/the-home-edit.jpg" alt="plates on a table" href="https://www.lordandtaylor.com/"/>
       </mj-column>
     </mj-section>
 
@@ -107,7 +106,7 @@
     </mj-raw>
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-image src="https://i.postimg.cc/DyqYmcB5/mark-downs.jpg" alt="70% off new markdowns"/>
+        <mj-image src="https://i.postimg.cc/DyqYmcB5/mark-downs.jpg" alt="70% off new markdowns" href="https://www.lordandtaylor.com/"/>
       </mj-column>
     </mj-section>
 
@@ -116,14 +115,14 @@
     </mj-raw>
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-image src="https://i.postimg.cc/vBf5X01N/afterpay.jpg" alt="afterpay advertisment"/>
+        <mj-image src="https://i.postimg.cc/vBf5X01N/afterpay.jpg" alt="afterpay advertisment" href="https://www.lordandtaylor.com/"/>
       </mj-column>
     </mj-section>
 
     <mj-raw>
       <!-- You may also love... -->
     </mj-raw>
-    <mj-section background-color="#ffffff" padding="0px 0px 40px 0px">
+    <mj-section background-color="#ffffff" padding="20px 0px 40px 0px">
       <mj-column>
         <mj-text align="center" font-family="montserrat" font-size="28px" font-weight="bold">
           You may also love...
@@ -135,18 +134,25 @@
       <!-- images of a female in a black dress, a vaz statue, a painting and a purple bed -->
     </mj-raw>
     <mj-section background-color="#ffffff">
-      <mj-column>
-        <mj-image src="https://i.postimg.cc/hj5NbPdr/dress.png" alt="a female modeling a black dress"/>
-      </mj-column>
-      <mj-column>
-        <mj-image src="https://i.postimg.cc/PJv96sbk/flower.png" alt="a vaz"/>
-      </mj-column>
+      <mj-group>
+
       <mj-column padding="0px 15px 0px 0px">
-        <mj-image src="https://i.postimg.cc/NLhVSJb2/painting.png" alt="a painting"/>
+        <mj-image width="150px" src="https://i.postimg.cc/hj5NbPdr/dress.png" alt="a female modeling a black dress" href="https://www.lordandtaylor.com/"/>
       </mj-column>
-      <mj-column>
-        <mj-image src="https://i.postimg.cc/yddwZSkx/bed.png" alt="bed"/>
+
+      <mj-column padding="0px 15px 0px 0px">
+        <mj-image width="150px" src="https://i.postimg.cc/PJv96sbk/flower.png" alt="a vaz" href="https://www.lordandtaylor.com/"/>
       </mj-column>
+
+      <mj-column padding="0px 15px 0px 0px">
+        <mj-image width="150px" src="https://i.postimg.cc/NLhVSJb2/painting.png" alt="a painting" href="https://www.lordandtaylor.com/"/>
+      </mj-column>
+
+      <mj-column padding="0px 15px 0px 0px">
+        <mj-image width="150px" src="https://i.postimg.cc/yddwZSkx/bed.png" alt="bed" href="https://www.lordandtaylor.com/"/>
+      </mj-column>
+      
+      </mj-group>
     </mj-section>
 
     <mj-raw>
@@ -171,7 +177,58 @@
       </mj-column>
     </mj-section>
 
+    <mj-raw>
+      <!-- To ensure delivery to your inbox, .... -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 0px 20px 0px">
+      <mj-column>
+        <mj-text font-family="montserrat" font-size="11px">
+          To ensure delivery to your inbox, please add <a href="#">info@email.lordandtaylor.com</a> to your address book/contacts.
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- To ensure delivery to your inbox, .... -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 0px 40px 0px">
+      <mj-column>
+        <mj-text align="center" line-height="15px" font-family="montserrat" font-size="11px">
+          Receiving Free Shipping with your purchase over $99 is easy. Here's how: Qualifying orders will automatically have their shipping charges adjusted during the checkout process. This offer is good only for standard shipping within the United States to the address in your order. Qualifying amount applies to current merchandise purchase only, not previous purchases, gift boxes, packaging, taxes, shipping & handling, value of Lord & Taylor Gift Cards or online gift certificates purchased. Not redeemable for cash nor accepted as payment for any credit card account. No adjustment on previous purchases. Offer is nontransferable without consent from Lord & Taylor. Subject to purchase approval. Cash value of 1/100 cent. Valid in USA only.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Privacy policy, Terms & Conditions & Unsubscribe -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 0px 40px 0px">
+      <mj-column>
+        <mj-text align="center" font-family="montserrat" font-size="11px">
+          <a href="https://www.lordandtaylor.com/" style="color: #000000;">Privacy policy<a>&#xA0;&#xA0;&#xA0;&#xA0;   |   &#xA0;&#xA0;&#xA0;&#xA0; 
+          <a href="https://www.lordandtaylor.com/" style="color: #000000;">Terms & Conditions<a>&#xA0;&#xA0;&#xA0;&#xA0;   |   &#xA0;&#xA0;&#xA0;&#xA0; 
+          <a href="https://www.lordandtaylor.com/" style="color: #000000;">Unsubscribe<a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- address -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 0px 10px 0px">
+
+      <mj-column>
+        <mj-text align="center" font-family="montserrat" font-size="11px" line-height="13px">
+          Lord & Taylor
+        </mj-text>
+        <mj-text align="center" font-family="montserrat" font-size="11px" line-height="13px">
+          275 Madison Avenue
+        </mj-text>
+        <mj-text align="center" font-family="montserrat" font-size="11px" line-height="13px">
+          New York, NY 10016
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
   </mj-body>
 
