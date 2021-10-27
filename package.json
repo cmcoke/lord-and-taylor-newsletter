@@ -4,7 +4,7 @@
   "scripts": {
     "deploy": "gh-pages -d production"
   },
-  "homepage": "https://cmcoke.github.io/lord-and-taylor",
+  "homepage": "https://cmcoke.github.io/lord-and-taylor-newsletter",
   "devDependencies": {
     "browser-sync": "^2.27.6",
     "gh-pages": "^2.2.0",
